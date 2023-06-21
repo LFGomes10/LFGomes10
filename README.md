@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá! Bem vindo ao meu perfil! #
 
-<!--
-**LFGomes10/LFGomes10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é Luis Fernando, prazer !
 
-Here are some ideas to get you started:
+Eu sou estudante de DS na ETEC Horário Augusto da Silveira.
+Atualmente trabalho com Compras em uma empresa de Engenharia e estou me dedicando para entrar no mercado de T.I.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou aprendendo a desenvolver com:
+- HTML
+- C++
+- JS.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LFGomes10=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
